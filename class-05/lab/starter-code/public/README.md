@@ -52,6 +52,17 @@ Then the portfolio contents should be displayed
 - Refactor the `main.css` file using SMACSS principles.
   - You may decide how many files to include, but at the minimum should include  `base.css`, `layout.css`, and `modules.css`. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a `modules` folder, if you feel that the code needs to be organized in that manner.
 
+  Number and name of feature: Feature #1: Refactor the CSS 
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 10 PM
+
+Finish time: 10:30 PM
+
+Actual time needed to complete: 20 mins
+
+
 ### Feature #2: Modify the contents
 
 #### Why are we implementing this feature?
@@ -77,6 +88,15 @@ Then the content should be unique and reflect the skills and personality of the 
 - Update the list of social media icons with your links using icons for your favorite social media sites from IcoMoon or Font Awesome.
 - Keep in mind that this template is just a starting point. It is yours to modify to reflect your personal online presence as a software developer so have fun and be creative!
 
+Number and name of feature: Feature #2: Modify the contents 
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 10:20 PM
+
+Finish time: 10:40 PM
+
+Actual time needed to complete: 20mins
 ## Submission Instructions
 
 1. Complete your Feature Tasks for the lab
